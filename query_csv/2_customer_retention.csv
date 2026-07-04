@@ -1,0 +1,9 @@
+"cohort_quarter","customer_status","total_customers","pct_of_cohort"
+"2011-Q3",Active,200,48.78
+"2011-Q3",Churned,210,51.22
+"2011-Q2",Active,413,50.00
+"2011-Q2",Churned,413,50.00
+"2011-Q1",Active,696,55.72
+"2011-Q1",Churned,553,44.28
+"2010-Q4",Active,612,69.15
+"2010-Q4",Churned,273,30.85
